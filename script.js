@@ -5,6 +5,6 @@ console.log(titleElement);
 let description = document.querySelector('.description');
 console.log(description); 
 
-const paragraphs = document.querySelectorAll('.passages');
+let descriptions = document.querySelectorAll("p");
 
-console.log(paragraphs);
+console.log(description);
