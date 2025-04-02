@@ -2,4 +2,9 @@ let titleElement = document.getElementById('title');
 
 console.log(titleElement);
 
-const paragraphs = document.querySelectorAll('.text');
+let description = document.querySelector('.description');
+console.log(description); 
+
+const paragraphs = document.querySelectorAll('.passages');
+
+console.log(paragraphs);
